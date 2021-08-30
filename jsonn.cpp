@@ -1,3 +1,6 @@
+
+/***Before Using Program Write In Your Command Line "sudo apt install libjsoncpp-dev" for installing json libraries in Your Computer****//
+
 #include <iostream>
 #include <jsoncpp/json/value.h>
 #include <jsoncpp/json/json.h>
