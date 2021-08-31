@@ -162,13 +162,6 @@ case 4:
    return 0;
    break;
 
-
-
-
-
-    std::cout<<"Wrong Number Written"<<std::endl;
-   goto label;
-   break;
 }
 
   return 0;
